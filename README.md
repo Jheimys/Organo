@@ -14,12 +14,9 @@ Estou sempre buscando melhorar meu código, Ficarei feliz com seu feedback.
 
 # O Projeto
 
-O organo é um projeto que foi desenvolvido para que se possa cadatrar os colaboradores de uma empresa de modo organizado e elegante.
-O cadastro é feito através de um formulário que possui os seguintes campos: Nome, Cargo, Imagem e Time. Após fazer o submit do
-formulário um card estilizado com a foto e informarções do colaborador é criado.
+O organo foi desenvolvido para cadastrar os colaboradores de uma empresa de modo organizado e elegante. O cadastro é feito através de um formulário que possui os seguintes campos: Nome, Cargo, Imagem e Time. Após fazer o submit do formulário é criado um card estilizado com a foto e informarções do colaborador.
 
-O React foi a tecnologia utilizada na elaboração do projeto, nele criei e estilizei componentes, utilizei props, Renderizei
-listas com o método .map e Gerenciei o estado de um componente utilizando o useState
+O React foi a tecnologia utilizada na elaboração do projeto, nele criei e estilizei componentes, utilizei props, renderizei listas com o método .map e gerenciei o estado de um componente utilizando o useState.
 
   <p align=center>
     <image width="670" heigth="570" src='https://github.com/Jheimys/assets/blob/master/organo.png'>
